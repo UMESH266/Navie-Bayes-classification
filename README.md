@@ -1,6 +1,6 @@
 ## Navie-Bayes-classification
 
-Certainly! Naive Bayes is a popular classification algorithm in the field of machine learning and statistics. It is based on Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions that might be related to the event. The "naive" assumption in Naive Bayes is that the features used to describe an observation are independent of each other, given the class label. Despite this simplifying assumption, Naive Bayes often performs well in practice, especially in text classification and spam filtering.
+Naive Bayes is a popular classification algorithm in the field of machine learning and statistics. It is based on Bayes' theorem, which describes the probability of an event based on prior knowledge of conditions that might be related to the event. The "naive" assumption in Naive Bayes is that the features used to describe an observation are independent of each other, given the class label. Despite this simplifying assumption, Naive Bayes often performs well in practice, especially in text classification and spam filtering.
 
 Here's a comprehensive overview of Naive Bayes classification:
 
